@@ -5,7 +5,7 @@ This is a simple, FAQ-based chatbot for a fictional cafe called "Cafe Delight." 
 <img width="914" height="610" alt="image" src="https://github.com/user-attachments/assets/e8bd376c-511c-4c07-885f-89635c8a0648" />
 
 
-*(Note: You will need to take a screenshot of your running application and save it as `screenshot.png` in your repository for the image above to display.)*
+
 
 ---
 
